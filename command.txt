@@ -1,0 +1,12 @@
+Most used commands and their use
+git add . - adding all the changed files to commit 
+git commit -m "message" - commiting with messages 
+git pull - pulling from remote project
+git push - psuhing to remote project
+git stash - stashing uncommited code
+git status - status of the files 
+git stash pop - poping out last stashed changes
+git reset - reset the project (Soft / Hard)
+git checkout - checkout to different branches
+git branch - branch CRUD command
+git clone - cloning a new repo
